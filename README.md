@@ -21,8 +21,8 @@
     <a href="#"><img alt="Win Server" src="https://img.shields.io/badge/-Server-blue?style=for-the-badge&logo=windows&logoColor=black"></a>
     <a href="#"><img alt="virtualbox" src="https://img.shields.io/badge/-VBox-black?style=for-the-badge&logo=virtualbox&logoColor=blue"></a>
     <a href="#"><img alt="kalilinux" src="https://img.shields.io/badge/kali-linux-green?style=for-the-badge&logo=kalilinux&logoColor=blue"></a>
-    <a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=proxmox&logoColor=orange"></a>
+    <a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-black?style=for-the-badge&logo=proxmox&logoColor=orange"></a>
     <a href="#"><img alt="Powershell" src="https://img.shields.io/badge/powershell-lightgrey?style=for-the-badge&logo=powershell&logoColor=blue"></a>
 </p>
 <h2> Connect with me <img src='https://github.com/GoCode0/GoCode0/blob/main/handshake.gif' width="100px"> </h2>
-
+<a href = 'https://www.github.com/HamzMourid00'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>

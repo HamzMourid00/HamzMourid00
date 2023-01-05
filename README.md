@@ -24,5 +24,5 @@
     <a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-black?style=for-the-badge&logo=proxmox&logoColor=orange"></a>
     <a href="#"><img alt="Powershell" src="https://img.shields.io/badge/powershell-lightgrey?style=for-the-badge&logo=powershell&logoColor=blue"></a>
 </p>
-<h2> Connect with me <img src='https://github.com/GoCode0/GoCode0/blob/main/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://github.com/HamzMourid00/HamzMourid00/blob/main/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/HamzMourid00'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>

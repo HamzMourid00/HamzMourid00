@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a Python project
-- 🌱 I’m currently learning Networking and systemes Administration
+- 🌱 I’m currently learning Networking and systemes Administration and vulnerability management
 - 👯 I’m looking to collaborate on hacking techniques
 - 📫 How to reach me: HamzaMourid@protonmail.com
 - 🎖 Badges from tryhackme.com

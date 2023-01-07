@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Networking and systemes Administration and vulnerability management
 - 👯 I’m looking to collaborate on hacking techniques
 - 📧 How to reach me: HamzaMourid@protonmail.com
-- 📜 check out mu portfolio https://hamza-site.netlify.app
+- 📜 check out my portfolio https://hamza-site.netlify.app
 - 🎖   Badges from tryhackme.com
 <h2> <img src="https://tryhackme-badges.s3.amazonaws.com/Microtheg.png" alt="TryHackMe"></h1>
 <h2> Skills </h2>

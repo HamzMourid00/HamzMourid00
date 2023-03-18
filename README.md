@@ -10,6 +10,7 @@
 - 📜 check out my portfolio https://hamza-site.netlify.app
 - 🎖   Badges from tryhackme.com
 <h2> <img src="https://tryhackme-badges.s3.amazonaws.com/Microtheg.png" alt="TryHackMe"></h1>
+<h2> <img src="https://tryhackme-badges.s3.amazonaws.com/Microtheg.png" alt="TRYHACKME"></h1>
 <h2> Skills </h2>
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>

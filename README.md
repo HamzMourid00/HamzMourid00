@@ -9,6 +9,7 @@
 - 📧 How to reach me: HamzaMourid@protonmail.com
 - 📜 check out my portfolio https://hamza-site.netlify.app
 - 🎖   Badges from tryhackme.com
+
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Microtheg.png)](https://tryhackme.com/p/Microtheg)
 <h2> Skills </h2>
 <p>

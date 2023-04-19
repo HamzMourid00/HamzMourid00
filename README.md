@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-![Github Banner](https://tryhackme-badges.s3.amazonaws.com/Microtheg.png)
+![Github Banner](https://github.com/HamzMourid00/HamzMourid00/blob/main/Banner.png)
 
 
-- 🔭 I’m currently working on a Python projecthttps://github.com/HamzMourid00/HamzMourid00/blob/main/Banner.png
+- 🔭 I’m currently working on a Python project
 - 🌱 I’m currently learning Networking and systemes Administration and vulnerability management
 - 👯 I’m looking to collaborate on hacking techniques
 - 📧 How to reach me: HamzaMourid@protonmail.com
 - 📜 check out my portfolio https://hamza-site.netlify.app
 - 🎖   Badges from tryhackme.com
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Microtheg.png)](https://tryhackme.com/p/Microtheg)
+[![TryHackMe Badge](https://raw.githubusercontent.com/HamzMourid00/HamzMourid00/main/Tryhackme.png)](https://tryhackme.com/p/Microtheg)
 <h2> Skills </h2>
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
